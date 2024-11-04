@@ -18,9 +18,9 @@ def load_cookies_from_json(file_name):
 # Directory in which you want to save the images
 target_directory_img = "TARGET_DIRECTORY_IMG"
 # Base URL
-base_url = "https://platform.virdocs.com/rscontent/epub/XXXXXXX/XXXXXXX/OEBPS/images/page-{}.jpg"
+base_url = "https://platform.virdocs.com/rscontent/epub/1478205/2815219/OEBPS/images/page-{}.jpg"
 # Total number of URL pages
-numpag = 350
+numpag = 5
 # PDF file name
 pdf_file = "EXPORT_PDF_FILE.pdf"
 
